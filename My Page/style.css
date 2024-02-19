@@ -5,3 +5,19 @@
     font-size: 25px;
     font-family: arial;
 }
+
+#index-bg {
+    background-color: paleturquoise;
+}
+
+#aboutme-bg {
+    background-color: palegoldenrod;
+}
+
+#contact-bg {
+    background-color: palegreen;
+}
+
+#hobbies-bg {
+    background-color: palevioletred;
+}
