@@ -22,7 +22,28 @@
     background-color: palevioletred;
 }
 
-#contact-form-section {
-    
-    
+#pets-header {
+    font-family: arial;
 }
+.row {
+    margin: 8px - 16px;
+}
+.row,
+.row>.column {
+    padding:8px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .content {
+    background-color: whitesmoke;
+    padding: 10px;
+  }
